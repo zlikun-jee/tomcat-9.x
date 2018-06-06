@@ -9,6 +9,7 @@
 
     <modules>
         <module>tomcat-01-servlet</module>
+        <module>tomcat-02-realm</module>
     </modules>
 
     <properties>
